@@ -1,0 +1,12 @@
+.modal__close {
+    width: 14px;
+    height: 14px;
+
+    position: absolute;
+    top: 15px;
+    right: 15px;
+
+    cursor: pointer;
+
+    background: url(modal__close.svg) no-repeat;
+}

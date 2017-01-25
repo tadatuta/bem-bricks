@@ -1,0 +1,9 @@
+.modal {
+    pre {
+        margin: 0;
+    }
+
+    &__content {
+        padding: 10px;
+    }
+}
