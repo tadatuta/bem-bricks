@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+.idea
+.project
+.svn
+npm-debug.log*
+
+# bem
+.enb/tmp/
+*bundles*/*/*.*
+*examples/**
+!*bundles*/*/*.bemdecl.js
+*.bundles/*/*.bemhtml.bemdecl.js
+!*bundles*/.bem/*
+/static/
+*specs*/*/*.*

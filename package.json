@@ -1,0 +1,29 @@
+{
+  "name": "bem-bricks",
+  "version": "0.0.1",
+  "description": "Some additional BEM blocks to use with bem-components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tadatuta/bem-bricks.git"
+  },
+  "keywords": [
+    "bem", "components", "controls", "ui"
+  ],
+  "author": "tadatuta",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/tadatuta/bem-bricks/issues"
+  },
+  "homepage": "https://github.com/tadatuta/bem-bricks#readme",
+  "devDependencies": {
+    "bem-components": "6.0.0",
+    "bem-core": "4.2.0"
+  }
+}
