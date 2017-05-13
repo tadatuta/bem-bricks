@@ -15,8 +15,6 @@ provide(bemDom.declBlock(this.name, {
         return this.getModal()
             .setContent(content)
             .setMod('visible');
-
-        return this;
     },
     show: function(content) {
         if (this.getModal()) return this._show(content);
